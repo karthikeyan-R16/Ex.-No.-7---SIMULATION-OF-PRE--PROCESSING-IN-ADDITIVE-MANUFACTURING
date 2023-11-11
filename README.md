@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/karthikeyan-R16/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119421232/906cdf09-8649-4278-a711-be68fe98cd49)
+
+
+### Name: KARTHIKEYAN R
+### Register Number: 212222240045
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
